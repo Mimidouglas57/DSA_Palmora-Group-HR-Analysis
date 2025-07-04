@@ -8,3 +8,8 @@ This project is part of my DSA training and showcases a complete HR analytics ca
 ## Tools Used
 - Power BI (visualization)
 - Excel (data cleanup & rules)
+## Files Included
+- `Palmoria_HR_Analytics_Report.pdf`
+- `Palmoria_Dashboard.pbix`
+- `cleaned data Palmoria Group emp-data.xlsx`
+- `Palmoria Group Bonus Rules.xlsx`
