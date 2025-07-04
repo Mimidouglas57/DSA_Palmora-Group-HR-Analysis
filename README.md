@@ -145,7 +145,6 @@ Undisclosed gender group often has the highest salaries, especially in Accountin
 
 ![Salary Compliance Status](https://github.com/user-attachments/assets/47c59bf5-9527-4735-b3fe-29398a924ece)
 
-
 ❌ Palmoria is not compliant with the new regulation.
     
    - Only 275 out of 874 employees (31.5%) meet the required $90,000 minimum salary.
@@ -170,6 +169,10 @@ Undisclosed gender group often has the highest salaries, especially in Accountin
   - Abuja shows a balanced distribution but has a noticeable number of employees in both high and low salary bands.
 
 ### 6. Bonus Allocation & Total Pay Analysis
+Bonus percentages were applied based on performance ratings using a reference rule table.
+
+[Palmoria Group Bonus Rules.xlsx](https://github.com/user-attachments/files/21064251/Palmoria.Group.Bonus.Rules.xlsx)
+
 
 
 ## 📝 Recommendations
