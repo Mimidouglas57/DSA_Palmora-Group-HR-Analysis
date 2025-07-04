@@ -61,6 +61,7 @@ These steps ensured a clean, reliable dataset for analyzing salary structures, p
 - Male: 430 (49.2%)
 - Female: 406 (46.45%)
 - Undisclosed: 38 (4.35%)
+
 The gender split is relatively balanced overall — with males slightly ahead by ~2.75%. This does not suggest strong company-wide gender bias in hiring, but the presence of 4.35% undisclosed cases shows a small gap in data completeness or sensitivity in disclosure.
 
 By Region:
@@ -68,18 +69,21 @@ By Region:
   - Male: 172
   - Female: 151
   - Undisclosed: 14
+
 Kaduna shows a modest male dominance (53.3% male vs 46.7% female when excluding undisclosed). This could be due to region-specific hiring patterns or job roles that tend to attract more men.
 
 - Abuja
   - Male:144
   - Female: 144
   - Undisclosed: 16
+
 Abuja has perfect gender parity among disclosed employees — a strong sign of balanced hiring. However, 16 people (5.3%) did not disclose their gender, slightly higher than the overall average.
 
 - Lagos:
   - Male: 114
   - Female: 111
   - Undisclosed: 8
+
 Lagos also shows a near-equal gender ratio — suggesting no clear bias. The small undisclosed count (3.4%) shows good data completeness for this region.
 
 The gender split is close, but subtle male dominance is seen in all regions.
