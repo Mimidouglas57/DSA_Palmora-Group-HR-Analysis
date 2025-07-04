@@ -153,7 +153,9 @@ Undisclosed gender group often has the highest salaries, especially in Accountin
 
 ![Salary Band Distribution](https://github.com/user-attachments/assets/d06da0ba-a9e5-43a3-b3c9-10317c291be2)
 
+- By Location
 
+![Salary Band Distribution by Location](https://github.com/user-attachments/assets/311856aa-9a63-48c9-8e12-65f0063dfb66)
 
 
 
