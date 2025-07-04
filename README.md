@@ -88,8 +88,9 @@ Lagos also shows a near-equal gender ratio — suggesting no clear bias. The sma
 
 
 By Department
+![Gender Distribution by Department](https://github.com/user-attachments/assets/ff522350-6f9a-46b5-9eff-e9103f25f838)
 
-![Gender Distribution by Department]([gender-distribution.png](https://github.com/Mimidouglas57/DSA_Palmora-Group-HR-Analysis/blob/main/Gender%20Distribution%20by%20Department.png))
+
 
 The overall gender distribution across departments is relatively balanced.
 
