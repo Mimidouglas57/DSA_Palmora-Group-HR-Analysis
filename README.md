@@ -212,9 +212,11 @@ Bonus percentages were applied based on performance ratings using a reference ru
 
 ## [🖼 Sample Dashboard Preview]
 
+![Palmoria Group Dashboard Pg1](https://github.com/user-attachments/assets/1b4a68d5-0b95-4846-bb2e-00ce20783198)
+
 ![Palmoria group dashboard Pg2](https://github.com/user-attachments/assets/898d0e1e-bb5b-4026-9415-1c205c8780bc)
 
-![Palmoria Group Dashboard Pg1](https://github.com/user-attachments/assets/1b4a68d5-0b95-4846-bb2e-00ce20783198)
+
 
 
 
