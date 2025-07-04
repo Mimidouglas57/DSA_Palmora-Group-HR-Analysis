@@ -127,7 +127,17 @@ A few departments have high counts of undisclosed gender (e.g., Engineering, R&D
   
 ![Average Salary by Gender per Department](https://github.com/user-attachments/assets/4933b933-23cb-4250-9f41-839654495a39)
 
- 
+- Male employees earn more in most departments, with the largest gaps in:
+  - Human Resources
+  - Services
+  - Business Development
+  - Support
+- Female employees earn more in:
+  - Engineering
+  - Marketing
+  - Training
+Undisclosed gender group often has the highest salaries, especially in Accounting and Marketing — suggesting possible senior or misclassified roles.
+
 - Bonus
  amount by performance rating  
 - Total pay comparison across regions  
