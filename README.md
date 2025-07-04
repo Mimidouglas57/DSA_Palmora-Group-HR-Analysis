@@ -177,15 +177,22 @@ Bonus percentages were applied based on performance ratings using a reference ru
   Using the dax function
   ```
       BonusAmount = 'Palmoria HR Analytics'[Salary] * Related('Palmoria HR Analytics'[Bonus Rating]
+  
 - **Total Pay (Salary + Bonus)**
 ```
-    TotalPay =  'Palmoria HR Analytics'[Salary] +'Palmoria HR Analytics'[BonusAmount]
+      TotalPay =  'Palmoria HR Analytics'[Salary] + 'Palmoria HR Analytics'[BonusAmount]
 ```
 
-dax
-Copy
-Edit
-BonusAmount = 'Bonus Rating'[CleanSalary] * RELATED('Bonus Rules'[Bonus %])
+- **Total Amount Paid Out by Region**
+  ```
+      TotalBonusByRegion = SUM('Palmoria HR Analytics'[BonusAmount])
+      TotalPayByRegion = SUM('Palmoria HR Analytics'[TotalPay])
+``
+  - **Company-Wide Total
+    ```
+        TotalBonusCompany = SUM('Palmoria HR Analytics'[BonusAmount])
+        TotalPayCompany = SUM('Palmoria HR Analytics'[TotalPay])
+
 
 ## 📝 Recommendations
 
