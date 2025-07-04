@@ -55,7 +55,7 @@ These steps ensured a clean, reliable dataset for analyzing salary structures, p
 
 ## 📊 Visualizations & Insights
 
-1. ###Salary distribution by gender, department, and region
+### 1. Salary distribution by gender, department, and region
 
  
 - Bonus amount by performance rating  
