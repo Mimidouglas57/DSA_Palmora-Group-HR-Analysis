@@ -119,9 +119,9 @@ A few departments have high counts of undisclosed gender (e.g., Engineering, R&D
 
 ![Average Salary by Gender per Location](https://github.com/user-attachments/assets/a9942d4b-bd19-46d5-8222-79a79f962cfa)
 
-    1. Male employees earn more than female employees in all regions, with the gap most noticeable in Abuja (₦2,621).
-    2. Undisclosed gender group has the highest average salary across all locations, suggesting possible senior or misclassified roles.
-    3. The pay differences are modest but consistent, indicating a systemic gender pay gap.
+  - Male employees earn more than female employees in all regions, with the gap most noticeable in Abuja (₦2,621).
+  - Undisclosed gender group has the highest average salary across all locations, suggesting possible senior or misclassified roles.
+  - The pay differences are modest but consistent, indicating a systemic gender pay gap.
 
 
 
