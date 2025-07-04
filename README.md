@@ -113,6 +113,10 @@ A few departments have high counts of undisclosed gender (e.g., Engineering, R&D
 - More males were rated “Poor” and “Very Poor” than females, which may indicate performance gaps or stricter assessments in male-dominated roles.
 - No clear signs of systemic gender bias, but these trends may warrant further review by role or department.
 
+### 3. Salary Structure Analysis
+
+- By Location
+
 
 
  
