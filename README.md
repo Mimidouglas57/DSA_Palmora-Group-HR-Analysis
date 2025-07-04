@@ -55,7 +55,8 @@ These steps ensured a clean, reliable dataset for analyzing salary structures, p
 
 ## 📊 Visualizations & Insights
 
-### 1. Salary distribution by gender, department, and region
+### 1. Salary distribution by gender, department, and region [Download Here][Average Salary by Gender](https://github.com/user-attachments/assets/3cd1d815-5a33-4454-a6fd-2236fb73841f)
+
 
  
 - Bonus amount by performance rating  
