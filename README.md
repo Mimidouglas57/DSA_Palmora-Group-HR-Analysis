@@ -88,6 +88,8 @@ Lagos also shows a near-equal gender ratio — suggesting no clear bias. The sma
 
 
 By Department
+
+
 ![Gender Distribution by Department](https://github.com/user-attachments/assets/ff522350-6f9a-46b5-9eff-e9103f25f838)
 
 
