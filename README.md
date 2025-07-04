@@ -141,6 +141,10 @@ Undisclosed gender group often has the highest salaries, especially in Accountin
 
 ### 4. Compliance Check
 
+![Salary Compliance Status](https://github.com/user-attachments/assets/47c59bf5-9527-4735-b3fe-29398a924ece)
+
+
+
 
 - Bonus
  amount by performance rating  
