@@ -100,6 +100,14 @@ Engineering and Marketing show perfect or near gender parity, which is a positiv
 
 A few departments have high counts of undisclosed gender (e.g., Engineering, R&D), which may mask actual bias and should be addressed.
 
+### 2. Ratings Based on Gender
+- Most employees, regardless of gender, were rated as “Average”, showing consistent evaluation standards.
+- More females received “Very Good” ratings (44 vs. 32 males), suggesting strong performance or recognition.
+- More males were rated “Poor” and “Very Poor” than females, which may indicate performance gaps or stricter assessments in male-dominated roles.
+- No clear signs of systemic gender bias, but these trends may warrant further review by role or department.
+
+
+
  
 - Bonus amount by performance rating  
 - Total pay comparison across regions  
