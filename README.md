@@ -144,6 +144,11 @@ Undisclosed gender group often has the highest salaries, especially in Accountin
 ![Salary Compliance Status](https://github.com/user-attachments/assets/47c59bf5-9527-4735-b3fe-29398a924ece)
 
 
+❌ Palmoria is not compliant with the new regulation.
+    - Only 275 out of 874 employees (31.5%) meet the required $90,000 minimum salary.
+    - 599 employees (68.5%) fall below the threshold.
+
+
 
 
 - Bonus
