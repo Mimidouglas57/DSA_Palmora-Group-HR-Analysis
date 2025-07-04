@@ -53,6 +53,17 @@ These steps ensured a clean, reliable dataset for analyzing salary structures, p
 - **DAX** – Custom metrics and logic (e.g., bonus calculations, pay gap analysis)  
 - **Excel** – Business rules and bonus inputs
 
+## 📊 Visualizations & Insights
+
+1. ###Salary distribution by gender, department, and region
+
+ 
+- Bonus amount by performance rating  
+- Total pay comparison across regions  
+- Employees grouped by salary bands  
+- KPI cards showing company-wide bonus-to-pay ratio  
+
+
 ## 📁 Files Included
 
 - `Palmoria_HR_Analytics_Report.pdf`
