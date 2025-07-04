@@ -136,7 +136,11 @@ A few departments have high counts of undisclosed gender (e.g., Engineering, R&D
   - Engineering
   - Marketing
   - Training
+
 Undisclosed gender group often has the highest salaries, especially in Accounting and Marketing — suggesting possible senior or misclassified roles.
+
+### 4. Compliance Check
+
 
 - Bonus
  amount by performance rating  
