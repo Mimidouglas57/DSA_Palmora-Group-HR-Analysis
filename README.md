@@ -123,10 +123,13 @@ A few departments have high counts of undisclosed gender (e.g., Engineering, R&D
   - Undisclosed gender group has the highest average salary across all locations, suggesting possible senior or misclassified roles.
   - The pay differences are modest but consistent, indicating a systemic gender pay gap.
 
-
+- By Department
+  
+![Average Salary by Gender per Department](https://github.com/user-attachments/assets/4933b933-23cb-4250-9f41-839654495a39)
 
  
-- Bonus amount by performance rating  
+- Bonus
+ amount by performance rating  
 - Total pay comparison across regions  
 - Employees grouped by salary bands  
 - KPI cards showing company-wide bonus-to-pay ratio  
