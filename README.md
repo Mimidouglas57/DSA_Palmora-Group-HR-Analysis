@@ -117,6 +117,10 @@ A few departments have high counts of undisclosed gender (e.g., Engineering, R&D
 
 - By Location
 
+![Average Salary by Gender per Location](https://github.com/user-attachments/assets/a9942d4b-bd19-46d5-8222-79a79f962cfa)
+
+
+
 
 
  
