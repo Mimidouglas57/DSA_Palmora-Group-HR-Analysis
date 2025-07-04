@@ -167,12 +167,8 @@ Undisclosed gender group often has the highest salaries, especially in Accountin
   - Lagos tends to have fewer employees in lower bands, suggesting a slightly more concentrated higher-paying structure.
   - Abuja shows a balanced distribution but has a noticeable number of employees in both high and low salary bands.
 
+### 6. Bonus Allocation & Total Pay Analysis
 
-- Bonus
- amount by performance rating  
-- Total pay comparison across regions  
-- Employees grouped by salary bands  
-- KPI cards showing company-wide bonus-to-pay ratio  
 
 
 ## 📁 Files Included
