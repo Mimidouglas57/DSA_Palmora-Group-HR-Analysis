@@ -11,6 +11,9 @@ This project is part of my DSA training and showcases a complete HR analytics ca
 6. [📁 Files Included](#-files-included)  
 7. [🖼 Sample Dashboard Preview](#-sample-dashboard-preview)  
 8. [🏁 Conclusion](#-conclusion)
+
+[📌 Project Overview](#-project-overview)  
+
 ## Objectives
 - Investigate gender pay gaps
 - Visualize salary distributions by gender, department, and region
