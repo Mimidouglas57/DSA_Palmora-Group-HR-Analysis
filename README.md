@@ -17,15 +17,30 @@ This project is part of my DSA training and showcases a complete HR analytics ca
 The Palmoria Group HR Analytics Project focuses on analyzing employee compensation, gender equity, and performance-based bonuses to support informed decision-making and ensure regulatory compliance.
 
 
-## Objectives
-- Investigate gender pay gaps
-- Visualize salary distributions by gender, department, and region
-- Analyze bonus allocation fairness
+## 🎯 Objectives
+
+- Automate annual bonus allocation based on performance
+- Evaluate salary fairness across gender, departments, and regions
+- Ensure compliance with minimum wage regulations
 - Provide actionable insights for HR improvement
-## Tools Used
-- Power BI (visualization)
-- Excel (data cleanup & rules)
-## Files Included
+
+## 🔍 Key Analysis Areas
+
+- 📈 **Gender Pay Gap Analysis**
+- 💰 **Bonus Allocation Based on Performance**
+- 🏙 **Salary Band Distribution by Region**
+- ✅ **$90,000 Minimum Wage Compliance**
+- 📊 **Company-Wide and Regional Payroll Summaries**
+  
+## 🛠 Tools & Techniques
+
+- **Power BI** – Interactive dashboards & visuals  
+- **Power Query** – Data cleaning and transformation  
+- **DAX** – Custom metrics and logic (e.g., bonus calculations, pay gap analysis)  
+- **Excel** – Business rules and bonus inputs
+
+## 📁 Files Included
+
 - `Palmoria_HR_Analytics_Report.pdf`
 - `Palmoria_Dashboard.pbix`
 - `cleaned data Palmoria Group emp-data.xlsx`
