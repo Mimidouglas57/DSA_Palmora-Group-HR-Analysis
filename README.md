@@ -173,7 +173,19 @@ Bonus percentages were applied based on performance ratings using a reference ru
 
 [Palmoria Group Bonus Rules.xlsx](https://github.com/user-attachments/files/21064251/Palmoria.Group.Bonus.Rules.xlsx)
 
+- **Bonus Amount per Employee**
+  Using the dax function
+  ```
+      BonusAmount = 'Palmoria HR Analytics'[Salary] * Related('Palmoria HR Analytics'[Bonus Rating]
+- **Total Pay (Salary + Bonus)**
+```
+    TotalPay =  'Palmoria HR Analytics'[Salary] +'Palmoria HR Analytics'[BonusAmount]
+```
 
+dax
+Copy
+Edit
+BonusAmount = 'Bonus Rating'[CleanSalary] * RELATED('Bonus Rules'[Bonus %])
 
 ## 📝 Recommendations
 
