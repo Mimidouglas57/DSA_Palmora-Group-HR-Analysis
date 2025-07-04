@@ -9,9 +9,10 @@ This project is part of my DSA training and showcases a complete HR analytics ca
 4. [🔍 Exploratory Data Analysis (EDA)](#-exploratory-data-analysis-eda)
 5. [🛠 Tools & Techniques](#-tools--techniques)  
 6. [📊 Visualizations & Insights](#-visualizations--insights)  
-7. [📁 Files Included](#-files-included)  
-8. [📝 Recommendations](#-recommendations)  
-9. [🏁 Conclusion](#-conclusion)
+7. [📁 Files Included](#-files-included)
+8. [🖼 Sample Dashboard Preview](#-sample-dashboard-preview)  
+9. [📝 Recommendations](#-recommendations)  
+10. [🏁 Conclusion](#-conclusion)
 
 ## 📌 Project Overview
 
@@ -202,6 +203,15 @@ Bonus percentages were applied based on performance ratings using a reference ru
         TotalBonusCompany = SUM('Palmoria HR Analytics'[BonusAmount])
         TotalPayCompany = SUM('Palmoria HR Analytics'[TotalPay])
 
+## 📁 Files Included
+
+- `Palmoria_HR_Analytics_Report.pdf`
+- `Palmoria_Dashboard.pbix`
+- `cleaned data Palmoria Group emp-data.xlsx`
+- `Palmoria Group Bonus Rules.xlsx`
+
+## [🖼 Sample Dashboard Preview]
+
 
 ## 📝 Recommendations
 - For Gender Pay Gap:
@@ -226,12 +236,6 @@ Bonus percentages were applied based on performance ratings using a reference ru
     - Benchmark against industry standards to stay competitive.
     - Ensure equitable pay progression across gender and performance levels.
 
-## 📁 Files Included
-
-- `Palmoria_HR_Analytics_Report.pdf`
-- `Palmoria_Dashboard.pbix`
-- `cleaned data Palmoria Group emp-data.xlsx`
-- `Palmoria Group Bonus Rules.xlsx`
 
 ## 🏁 Conclusion
 
