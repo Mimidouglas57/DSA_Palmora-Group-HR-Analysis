@@ -89,7 +89,7 @@ Lagos also shows a near-equal gender ratio — suggesting no clear bias. The sma
 
 By Department
 
-![Gender Distribution by Department](gender-distribution.png)
+![Gender Distribution by Department]([gender-distribution.png](https://github.com/Mimidouglas57/DSA_Palmora-Group-HR-Analysis/blob/main/Gender%20Distribution%20by%20Department.png))
 
 The overall gender distribution across departments is relatively balanced.
 
@@ -99,12 +99,6 @@ The overall gender distribution across departments is relatively balanced.
 Engineering and Marketing show perfect or near gender parity, which is a positive sign.
 
 A few departments have high counts of undisclosed gender (e.g., Engineering, R&D), which may mask actual bias and should be addressed.
-
-The gender split is close, but subtle male dominance is seen in all regions.
-By Depar
-tment: Some departments show skewed gender distribution, particularly in Accounting, Legal, Product Management and Sales, is seen to have more males than female while department like Business development, Engineering, Research and development, Services have more female and others share equal or a little difference in number.
-
-
 
  
 - Bonus amount by performance rating  
