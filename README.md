@@ -211,12 +211,12 @@ Bonus percentages were applied based on performance ratings using a reference ru
     - Ensure gender data disclosure is complete and accurate for better analysis.
     - Include performance ratings and tenure in deeper analysis to adjust for experience.
 
-  - For Compliance Check
+- For Compliance Check
     - Urgently review salary structure across all departments and regions.
     - Prioritize upskilling or role upgrades for lower-paid employees to justify increased compensation.
     - Explore phased salary adjustments to reduce compliance risk.
 
-  - Salary Band Distribution – Summary of Recommendations
+- Salary Band Distribution – Summary of Recommendations
     - Increase salaries below $90,000 to meet regulatory requirements.
     - Standardize pay across regions to reduce location-based disparities.
     - Introduce clear salary bands linked to roles and experience.
@@ -230,3 +230,9 @@ Bonus percentages were applied based on performance ratings using a reference ru
 - `Palmoria_Dashboard.pbix`
 - `cleaned data Palmoria Group emp-data.xlsx`
 - `Palmoria Group Bonus Rules.xlsx`
+
+## 🏁 Conclusion
+
+The analysis reveals that while Palmoria Group shows strong gender representation on the surface, deeper disparities in pay, performance ratings, and regulatory compliance demand urgent attention. Addressing these issues is not just a matter of fairness — it's a strategic necessity.
+
+By implementing equitable pay structures, improving transparency, and aligning with industry standards, Palmoria can strengthen its internal culture and external reputation. Proactive action now will position the company for sustainable growth, talent retention, and long-term credibility in the global manufacturing space.
