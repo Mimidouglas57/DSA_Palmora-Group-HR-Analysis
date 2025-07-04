@@ -188,7 +188,7 @@ Bonus percentages were applied based on performance ratings using a reference ru
       TotalBonusByRegion = SUM('Palmoria HR Analytics'[BonusAmount])
       TotalPayByRegion = SUM('Palmoria HR Analytics'[TotalPay])
 ``
-  - **Company-Wide Total
+  - **Company-Wide Total**
     ```
         TotalBonusCompany = SUM('Palmoria HR Analytics'[BonusAmount])
         TotalPayCompany = SUM('Palmoria HR Analytics'[TotalPay])
