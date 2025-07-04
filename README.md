@@ -4,13 +4,14 @@ This project is part of my DSA training and showcases a complete HR analytics ca
 ## 📚 Table of Contents
 
 1. [📌 Project Overview](#-project-overview)  
-2. [🎯 Objectives](#-objectives)  
-3. [🔍 Key Analysis Areas](#-key-analysis-areas)  
-4. [🛠 Tools & Techniques](#-tools--techniques)  
-5. [📊 Visualizations & Insights](#-visualizations--insights)  
-6. [📁 Files Included](#-files-included)  
-7. [🖼 Sample Dashboard Preview](#-sample-dashboard-preview)  
-8. [🏁 Conclusion](#-conclusion)
+2. [🎯 Objectives](#-objectives)
+3. [🔍 Exploratory Data Analysis (EDA)](#-exploratory-data-analysis-eda)  
+4. [🔍 Key Analysis Areas](#-key-analysis-areas)  
+5. [🛠 Tools & Techniques](#-tools--techniques)  
+6. [📊 Visualizations & Insights](#-visualizations--insights)  
+7. [📁 Files Included](#-files-included)  
+8. [🖼 Sample Dashboard Preview](#-sample-dashboard-preview)  
+9. [🏁 Conclusion](#-conclusion)
 
 ## 📌 Project Overview
 
@@ -23,6 +24,19 @@ The Palmoria Group HR Analytics Project focuses on analyzing employee compensati
 - Evaluate salary fairness across gender, departments, and regions
 - Ensure compliance with minimum wage regulations
 - Provide actionable insights for HR improvement
+
+## 🔍 Exploratory Data Analysis (EDA)
+
+Initial data exploration focused on cleaning and preparing the employee and bonus datasets for analysis. Key steps included:
+
+- Assigned `"Undisclosed"` to employees who didn’t reveal their gender  
+- Removed employees with missing salaries (no longer with the company)  
+- Filtered out records with `"NULL"` department entries  
+- Replaced blank bonus fields with `0`  
+- Verified data types and checked for outliers  
+- Ensured performance ratings aligned with bonus rules
+
+These steps ensured a clean, reliable dataset for analyzing salary structures, pay gaps, and bonus allocations.
 
 ## 🔍 Key Analysis Areas
 
