@@ -10,7 +10,7 @@ This project is part of my DSA training and showcases a complete HR analytics ca
 5. [🛠 Tools & Techniques](#-tools--techniques)  
 6. [📊 Visualizations & Insights](#-visualizations--insights)  
 7. [📁 Files Included](#-files-included)  
-8. [🖼 Sample Dashboard Preview](#-sample-dashboard-preview)  
+8.📝 Recommendations](#-recommendations)  
 9. [🏁 Conclusion](#-conclusion)
 
 ## 📌 Project Overview
