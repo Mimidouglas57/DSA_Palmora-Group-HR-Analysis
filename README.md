@@ -5,8 +5,8 @@ This project is part of my DSA training and showcases a complete HR analytics ca
 
 1. [📌 Project Overview](#-project-overview)  
 2. [🎯 Objectives](#-objectives)
-3. [🔍 Exploratory Data Analysis (EDA)](#-exploratory-data-analysis-eda)  
-4. [🔍 Key Analysis Areas](#-key-analysis-areas)  
+3. [Data Cleaning Steps](#-data-cleaning-steps)
+4. [🔍 Exploratory Data Analysis (EDA)](#-exploratory-data-analysis-eda)
 5. [🛠 Tools & Techniques](#-tools--techniques)  
 6. [📊 Visualizations & Insights](#-visualizations--insights)  
 7. [📁 Files Included](#-files-included)  
@@ -25,8 +25,7 @@ The Palmoria Group HR Analytics Project focuses on analyzing employee compensati
 - Ensure compliance with minimum wage regulations
 - Provide actionable insights for HR improvement
 
-## 🔍 Exploratory Data Analysis (EDA)
-
+## 🧹 Data Cleaning Steps
 Initial data exploration focused on cleaning and preparing the employee and bonus datasets for analysis. Key steps included:
 
 - Assigned `"Undisclosed"` to employees who didn’t reveal their gender  
@@ -38,14 +37,17 @@ Initial data exploration focused on cleaning and preparing the employee and bonu
 
 These steps ensured a clean, reliable dataset for analyzing salary structures, pay gaps, and bonus allocations.
 
-## 🔍 Key Analysis Areas
 
-- 📈 **Gender Pay Gap Analysis**
-- 💰 **Bonus Allocation Based on Performance**
-- 🏙 **Salary Band Distribution by Region**
-- ✅ **$90,000 Minimum Wage Compliance**
-- 📊 **Company-Wide and Regional Payroll Summaries**
-  
+## 🔍 Exploratory Data Analysis (EDA)
+This section presents the initial exploration of Palmoria's HR dataset, focusing on gender representation, performance fairness, salary structure, and compensation equity.
+
+- Gender Distribution
+- Performance Ratings by Gender
+- Salary Structure & Gender Pay Gap
+- Minimum Salary Compliance ($90,000 Regulation)
+- Salary Band Distribution
+- Bonus & Total Compensation
+
 ## 🛠 Tools & Techniques
 
 - **Power BI** – Interactive dashboards & visuals  
