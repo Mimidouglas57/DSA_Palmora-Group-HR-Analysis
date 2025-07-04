@@ -202,8 +202,27 @@ Bonus percentages were applied based on performance ratings using a reference ru
 
 
 ## 📝 Recommendations
+- For Gender Pay Gap:
+    - Focus on Abuja for further investigation.
+    - Review salary structures and role assignments by gender.
+    - Improve gender data completeness to support fair pay policies.
+    - Audit salary structures in Human Resources, Services and Business Development
+    - Investigate reasons for female salary advantage in Engineering and Marketing — could highlight best practices.
+    - Ensure gender data disclosure is complete and accurate for better analysis.
+    - Include performance ratings and tenure in deeper analysis to adjust for experience.
 
+  - For Compliance Check
+    - Urgently review salary structure across all departments and regions.
+    - Prioritize upskilling or role upgrades for lower-paid employees to justify increased compensation.
+    - Explore phased salary adjustments to reduce compliance risk.
 
+  - Salary Band Distribution – Summary of Recommendations
+    - Increase salaries below $90,000 to meet regulatory requirements.
+    - Standardize pay across regions to reduce location-based disparities.
+    - Introduce clear salary bands linked to roles and experience.
+    - Track employee movement across bands over time for growth insights.
+    - Benchmark against industry standards to stay competitive.
+    - Ensure equitable pay progression across gender and performance levels.
 
 ## 📁 Files Included
 
