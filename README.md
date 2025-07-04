@@ -149,6 +149,12 @@ Undisclosed gender group often has the highest salaries, especially in Accountin
    - Only 275 out of 874 employees (31.5%) meet the required $90,000 minimum salary.
    - 599 employees (68.5%) fall below the threshold.
 
+### 5. Salary Band Distribution
+
+![Salary Band Distribution](https://github.com/user-attachments/assets/d06da0ba-a9e5-43a3-b3c9-10317c291be2)
+
+
+
 
 
 
