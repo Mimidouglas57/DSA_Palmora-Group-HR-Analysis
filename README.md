@@ -12,7 +12,10 @@ This project is part of my DSA training and showcases a complete HR analytics ca
 7. [🖼 Sample Dashboard Preview](#-sample-dashboard-preview)  
 8. [🏁 Conclusion](#-conclusion)
 
-[📌 Project Overview](#-project-overview)  
+## 📌 Project Overview
+
+The Palmoria Group HR Analytics Project focuses on analyzing employee compensation, gender equity, and performance-based bonuses to support informed decision-making and ensure regulatory compliance.
+
 
 ## Objectives
 - Investigate gender pay gaps
