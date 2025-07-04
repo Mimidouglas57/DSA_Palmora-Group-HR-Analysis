@@ -153,11 +153,19 @@ Undisclosed gender group often has the highest salaries, especially in Accountin
 
 ![Salary Band Distribution](https://github.com/user-attachments/assets/d06da0ba-a9e5-43a3-b3c9-10317c291be2)
 
+  - The largest group of employees (190) earn above $100,000, showing a strong top-end salary cluster.
+  - The 70k–90k range is the next most populated band, with over 200 employees combined.
+  - A significant portion (≈96) earn between 30k–40k, highlighting a lower pay group.
+  - The smallest band is $20k–$30k, with only 26 employees.
+  - No employees fall into the $10k–$20k range, indicating a baseline salary above that.
+
 - By Location
 
 ![Salary Band Distribution by Location](https://github.com/user-attachments/assets/311856aa-9a63-48c9-8e12-65f0063dfb66)
 
-
+  - Kaduna consistently has higher counts across most salary bands, especially in 100k+, 70k–80k, and 50k–60k bands.
+  - Lagos tends to have fewer employees in lower bands, suggesting a slightly more concentrated higher-paying structure.
+  - Abuja shows a balanced distribution but has a noticeable number of employees in both high and low salary bands.
 
 
 - Bonus
