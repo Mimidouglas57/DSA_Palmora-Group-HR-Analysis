@@ -5,7 +5,7 @@ This project is part of my DSA training and showcases a complete HR analytics ca
 
 1. [📌 Project Overview](#-project-overview)  
 2. [🎯 Objectives](#-objectives)
-3. [Data Cleaning Steps](#-data-cleaning-steps)
+3. [🧹 Data Cleaning Steps](#-data-cleaning-steps)
 4. [🔍 Exploratory Data Analysis (EDA)](#-exploratory-data-analysis-eda)
 5. [🛠 Tools & Techniques](#-tools--techniques)  
 6. [📊 Visualizations & Insights](#-visualizations--insights)  
